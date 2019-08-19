@@ -1,0 +1,6 @@
+project/
+spark-warehouse/
+target/
+.DS_Store
+.idea/
+src/main/resources/
