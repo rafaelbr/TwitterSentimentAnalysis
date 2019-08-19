@@ -9,5 +9,6 @@ This project builds a model trained on Sentiment140 and saves it on disk.
 Install SBT tools, download repository and run command:
 $ sbt run
 
-References:
+## References
+
 Sentiment140 (http://help.sentiment140.com/for-students)
